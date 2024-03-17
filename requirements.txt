@@ -1,0 +1,17 @@
+bs4
+deep-translator
+googletrans
+gtts
+pytube
+streamlit
+transformers
+youtube-transcript-api
+textwrap3
+tensorflow
+torch
+sentencepiece
+spacy
+pybase64
+gensim
+nltk
+tf-keras
