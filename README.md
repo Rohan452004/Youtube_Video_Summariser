@@ -15,7 +15,7 @@ Installation :
    
 App Usage :
 
-1. Enter YouTube Video URL: Paste the URL of the YouTube video you want to summarize in the provided input field.
+1. Enter YouTube Video URL: Paste the URL of the YouTube video you want to summarize.
 
 2. Select Summarization Type: Choose between extractive and abstractive summarization methods.
 
