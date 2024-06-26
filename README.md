@@ -3,7 +3,7 @@
 <img width="943" alt="Screenshot 2024-06-26 at 3 54 13 PM" src="https://github.com/Rohan452004/Youtube_Video_Summariser/assets/104892210/58d62283-feb8-4207-881c-ae560b834c9b">
 
 
-Installation :
+## Installation :
 
 
 1. git clone https://github.com/Rohan452004/Youtube_Video_Summariser.git
@@ -13,7 +13,7 @@ Installation :
 5. streamlit run app.py
 
    
-App Usage :
+## App Usage :
 
 1. Enter YouTube Video URL: Paste the URL of the YouTube video you want to summarize.
 
